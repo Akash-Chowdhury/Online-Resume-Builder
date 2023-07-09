@@ -1,4 +1,4 @@
 # Online-Resume-Builder
 
 
-`Note: javascript is not working on hosted link.`
+`Note: javascript is not working in hosted link.`
